@@ -6,3 +6,14 @@ export const StyleHeader = styled.div`
 
 
 `;
+
+export const Nav = styled.nav`
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 40px;
+`
+
+export const Logo = styled.img`
+
+`
